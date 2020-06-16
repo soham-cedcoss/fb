@@ -9,4 +9,4 @@
   * Item 2a
   * Item 2b
 
-http://github.com/soham-cedcoss
+link to git hub directory [github dir](http://github.com/soham-cedcoss)
