@@ -1,4 +1,4 @@
-# SOHAM docs
+# SOHAM
 
 ## heading1
 **data**
