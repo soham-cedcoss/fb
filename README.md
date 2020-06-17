@@ -1,8 +1,10 @@
 # SOHAM
 
 ## heading1
-**data**
+**bold data**
 *some italics*
+
+***Bold and italics***
 
 * Item 1
 * Item 2
